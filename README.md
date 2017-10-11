@@ -1,2 +1,2 @@
 # trying-out
-Git
+Github
